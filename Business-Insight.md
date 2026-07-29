@@ -15,6 +15,6 @@ The relationship between RAM and selling price appears relatively weak. Devices 
 ### Phone Age
 Older phones generally have lower selling prices. However, the relationship is not perfectly linear, suggesting that brand reputation and device condition also play important roles in determining resale value.
 
-#Recommendation
+## Recommendation
 
 Prioritize inventory from premium brands such as OnePlus and Apple, as they maintain higher resale values. Encourage sellers to keep devices in Like New condition before resale, since condition has a significant impact on selling price. Higher-storage models should also receive greater attention because they tend to command better prices. Finally, pricing decisions should consider multiple factors—including brand, condition, storage capacity, and phone age—rather than relying on a single specification such as RAM.
